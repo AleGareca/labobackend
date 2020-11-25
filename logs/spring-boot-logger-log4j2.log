@@ -1,0 +1,9 @@
+2020-11-25 20:00:50,486 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 5.4.23.Final
+2020-11-25 20:00:51,544 INFO o.h.a.c.r.j.JavaReflectionManager [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2020-11-25 20:00:51,919 WARN o.h.e.j.c.i.DriverManagerConnectionProviderImpl [main] HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2020-11-25 20:00:51,934 INFO o.h.e.j.c.i.DriverManagerConnectionProviderImpl [main] HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/unquitravel?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC]
+2020-11-25 20:00:51,936 INFO o.h.e.j.c.i.DriverManagerConnectionProviderImpl [main] HHH10001001: Connection properties: {password=****, user=root}
+2020-11-25 20:00:51,937 INFO o.h.e.j.c.i.DriverManagerConnectionProviderImpl [main] HHH10001003: Autocommit mode: false
+2020-11-25 20:00:51,942 INFO o.h.e.j.c.i.DriverManagerConnectionProviderImpl$PooledConnections [main] HHH000115: Hibernate connection pool size: 20 (min=1)
+2020-11-25 20:00:52,451 INFO o.h.d.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2020-11-25 20:00:53,583 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
